@@ -1,16 +1,16 @@
-# 👋 ¡Hola! Soy Edward Contreras (DeuxMachin)
+# ¡Hola! Soy Edward Contreras (DeuxMachin)
 
 🎓 Estudiante de Ingeniería Civil en Informática en la Universidad Católica de Temuco.  
 💡 Apasionado por Data Science, Machine Learning y el desarrollo de herramientas tecnológicas WEB y Moviles.
 
 ---
   
-## 💫 About Me
+## About Me
 
-🤝 **Busco colaborar en:**  
+ **Busco colaborar en:**  
 → Iniciativas relacionadas con ciencia de datos, algo referente a la bioinformática y aplicaciones moviles.
 
-🌱 **Aprendiendo actualmente:**  
+ **Aprendiendo actualmente:**  
 → Big Data con R y python, Redes neuronales para trabajar con estructuras proteicas, y técnicas de Machine Learning.
 
 ---
